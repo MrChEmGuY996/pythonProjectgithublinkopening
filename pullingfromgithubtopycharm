@@ -1,1 +1,6 @@
+# pulled from githhub
 print("pulled")
+# push to github
+print("pushed")
+
+
